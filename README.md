@@ -1,0 +1,2 @@
+# CurseForgeMyInstances
+CurseForgeMyInstances
